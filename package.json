@@ -1,0 +1,16 @@
+{
+  "name": "viem-example",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "tsx ./index.ts"
+  },
+  "dependencies": {
+    "viem": "latest"
+  },
+  "devDependencies": {
+    "tsx": "latest",
+    "typescript": "latest"
+  }
+}
