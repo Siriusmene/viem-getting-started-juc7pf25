@@ -7,7 +7,7 @@
     "start": "tsx ./index.ts"
   },
   "dependencies": {
-    "viem": "latest"
+    "viem": "2.37.6"
   },
   "devDependencies": {
     "tsx": "latest",
